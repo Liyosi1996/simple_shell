@@ -1,6 +1,6 @@
 0x16. C - Simple Shell
 C
-Group project
+Group project by Faith Liyosi and Kelvin Kiiru
 Syscall
 
 For this project, we expect you to look at these concepts:
