@@ -1,4 +1,4 @@
-
+#include "main.h"
 
 int _strlen(const char *s);
 char *_strcpy(char *dest, const char *src);
